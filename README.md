@@ -1,12 +1,11 @@
-<h1 align="center">Welcome to  👋</h1><br/>
 <h2 align="center">Keep learning and stay hungry.</h2>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/anis\_r\_aziz\_z" target="_blank">
-    <img alt="Twitter: anis\_r\_aziz\_z" src="https://img.shields.io/twitter/follow/anis\_r\_aziz\_z.svg?style=social" />
+  <a href="https://twitter.com/anis_r_aziz" target="_blank">
+    <img alt="Twitter: anis_r_aziz" src="https://img.shields.io/twitter/follow/anis_r_aziz.svg?style=social" />
   </a>
 </p>
 
